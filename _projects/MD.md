@@ -1,6 +1,6 @@
 ---
 title: "MD simulation analysis"
-date: 2025
+date: 2025-09-01
 category: "personal"  # or "personal"
 priority: 6
 header_image: "/assets/images/tower.jpg"

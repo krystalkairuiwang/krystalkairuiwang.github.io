@@ -10,6 +10,7 @@ css_class: about
 
 <img src="/assets/images/self.jpg" alt="Picture of myself">
 
+
 Right now, my work focuses on harnessing deep learning to solve big problems. I am a researcher in both the
 <a href="https://singhlab.net">Singh Lab</a> and the <a href="https://users.cs.duke.edu/~cynthia/lab.html">Interpretable Machine Learning Lab</a>.
 Beyond research, I am passionate about music, entrepreneurship, and photography.
