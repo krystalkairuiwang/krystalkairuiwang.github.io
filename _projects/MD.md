@@ -3,7 +3,7 @@ title: "MD simulation analysis"
 date: 2025-09-01
 category: "Professional"  # or "personal"
 priority: 6
-header_image: "/assets/images/tower.jpg"
+header_image: "/assets/images/lattice.png"
 description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
 layout: "project"  # We'll create a project layout or use default
 technologies:

@@ -3,7 +3,7 @@ title: "Advancing Research Translation with AI"
 date: 2026-09-01
 category: "professional"  # or "personal"
 priority: 6
-header_image: "/assets/images/tower.jpg"
+header_image: "/assets/images/bass.png"
 description: "Using AI and interviewing stakeholders to translate research"
 layout: "project"  # We'll create a project layout or use default
 technologies:
