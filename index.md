@@ -11,7 +11,7 @@ css_class: about
 <img src="/assets/images/self.jpg" alt="Picture of myself" style="width:100px";>
 
 I am interested in cellular and tissue engineering. Currently I am an undergraduate researcher in the
-<a href="https://gerechtlab.duke.edu/">Gerecht Lab</a> working on <i>in vitro<i> artery model, and participating
+<a href="https://gerechtlab.duke.edu/">Gerecht Lab</a> working on <i>in vitro</i> artery model, and participating
 in summer research at the <a href="https://cohenlab.princeton.edu/">Cohen lab</a>.
 
 Furthermore, I am excited by the acceleration in research brought by machine learning and computational models.
