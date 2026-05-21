@@ -1,10 +1,10 @@
 ---
-title: "MD simulation analysis"
-date: 2025-09-01
-category: "Professional"  # or "personal"
+title: "Advancing Research Translation with AI"
+date: 2026-09-01
+category: "professional"  # or "personal"
 priority: 6
 header_image: "/assets/images/tower.jpg"
-description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
+description: "Using AI and interviewing stakeholders to translate research"
 layout: "project"  # We'll create a project layout or use default
 technologies:
   - HTML
