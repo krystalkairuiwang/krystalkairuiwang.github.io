@@ -1,8 +1,8 @@
 # Site settings
-title: "Michael Scutari"
+title: "Krystal Wang"
 description: "Projects and more from Michael Scutari."
 baseurl: "" # If you're publishing on GitHub Pages at username.github.io, keep it blank
-url: "https://michaelscutari.com" # Update with your GitHub Pages URL or custom domain
+url: "https://krystalwang.github.io" # Update with your GitHub Pages URL or custom domain
 
 # Collections
 collections:
