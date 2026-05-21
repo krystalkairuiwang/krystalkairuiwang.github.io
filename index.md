@@ -4,9 +4,11 @@ title: "About"
 css_class: about
 ---
 
-# Hi, I'm Michael.
+# Krystal Wang
 
-## I am an undergraduate and Pratt Fellow at Duke University.
+## Biomedical Engineering major + Computational Biology minor at Duke University
+
+<img src=""C:Users\13912\Desktop\Photos\PR\IMG_1266.JPG"" alt="Picture of myself">
 
 Right now, my work focuses on harnessing deep learning to solve big problems. I am a researcher in both the
 <a href="https://singhlab.net">Singh Lab</a> and the <a href="https://users.cs.duke.edu/~cynthia/lab.html">Interpretable Machine Learning Lab</a>.
