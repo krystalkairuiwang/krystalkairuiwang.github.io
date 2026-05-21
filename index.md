@@ -8,7 +8,7 @@ css_class: about
 
 ## Biomedical Engineering major + Computational Biology minor at Duke University
 
-<img src="/assets/images/self.jpg" alt="Picture of myself">
+<img src="/assets/images/self.jpg" alt="Picture of myself" style="width:500px;height:600px;>
 
 
 Right now, my work focuses on harnessing deep learning to solve big problems. I am a researcher in both the
