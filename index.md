@@ -8,7 +8,7 @@ css_class: about
 
 ## Biomedical Engineering major + Computational Biology minor at Duke University
 
-<img src="/assets/images/self.jpg" alt="Picture of myself" style="width:100px;">
+<img src="/assets/images/self.jpg" alt="Picture of myself" style="width:400px;">
 
 I am interested in cellular and tissue engineering. Currently I am an undergraduate researcher in the
 <a href="https://gerechtlab.duke.edu/">Gerecht Lab</a> working on <i>in vitro</i> artery model, and participating
@@ -22,7 +22,7 @@ I intend to further my studies and involvement in Computational Biology.
 ## This is a website for showcasing my projects in more detail than can fit on a resume.
   + Check out the [Projects]({{ '/projects/' | relative_url }}) page for more details.
   + You can also get in [Contact]({{ '/contact/' | relative_url }}) with me.
-  + My [Resume]({{ '/assets/resume.pdf' | relative_url }}) is available for download here too.
+  + My [Resume]({{ '/assets/Resume.pdf' | relative_url }}) is available for download here too.
 
 <h2>
     Connect with me on
