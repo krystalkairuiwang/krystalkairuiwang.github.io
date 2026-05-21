@@ -8,7 +8,7 @@ css_class: about
 
 ## Biomedical Engineering major + Computational Biology minor at Duke University
 
-<img src="C:\Users\13912\Desktop\GitHub_repo\krystalkairuiwang.github.io\main_page_photo.JPG" alt="Picture of myself">
+<img src="main_page_photo.JPG" alt="Picture of myself">
 
 Right now, my work focuses on harnessing deep learning to solve big problems. I am a researcher in both the
 <a href="https://singhlab.net">Singh Lab</a> and the <a href="https://users.cs.duke.edu/~cynthia/lab.html">Interpretable Machine Learning Lab</a>.
