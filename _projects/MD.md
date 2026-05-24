@@ -21,6 +21,6 @@ the perfect lattice.
 
 ## Workflow
 
-<img src="/assets/images/workflow1.png" alt="workflow" style="width:600px;">
-<img src="/assets/images/workflow2.png" alt="workflow" style="width:600px;">
-<img src="/assets/images/workflow3.png" alt="workflow" style="width:600px;">
+<img src="/assets/images/workflow1.png" alt="workflow" style="width:800px;">
+<img src="/assets/images/workflow2.png" alt="workflow" style="width:800px;">
+<img src="/assets/images/workflow3.png" alt="workflow" style="width:800px;">
