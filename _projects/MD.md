@@ -1,5 +1,5 @@
 ---
-title: "MD simulation analysis"
+title: "Molecular Dynamics simulation analysis"
 category: "Professional"  # or "personal"
 priority: 2
 description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
@@ -21,3 +21,6 @@ the perfect lattice.
 
 ## Workflow
 
+<img src="/assets/images/workflow1.png" alt="workflow" style="width:600px;">
+<img src="/assets/images/workflow2.png" alt="workflow" style="width:600px;">
+<img src="/assets/images/workflow3.png" alt="workflow" style="width:600px;">
