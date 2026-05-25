@@ -1,7 +1,5 @@
 ---
 title: "Molecular Dynamics Simulation Analysis"
-category: "Professional"  # or "personal"
-priority: 2
 header_image: "/assets/images/kagome.jpg"
 description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
 layout: "project"  # We'll create a project layout or use default
@@ -10,7 +8,7 @@ technologies:
   - lammps
 ---
 
-Fall 2025
+2025
 
 At the <a href="https://aryalab.pratt.duke.edu/">Arya Lab</a>, our project focused on optimizing the self-assembly of DNA
 nanotechnology through Machine Learning. One method of demonstrating the change in self-assembly performance was through analyzing
