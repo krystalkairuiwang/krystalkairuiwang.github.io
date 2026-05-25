@@ -18,17 +18,4 @@ Furthermore, I am excited by the acceleration in research brought by machine lea
 Previously researching at the <a href="https://aryalab.pratt.duke.edu/">Arya Lab</a> on modelling DNA nanotechnology,
 I intend to further my studies and involvement in Computational Biology.
 
----
-## This is a website for showcasing my projects in more detail than can fit on a resume.
-  + Check out the [Projects]({{ '/projects/' | relative_url }}) page for more details.
-  + You can also get in [Contact]({{ '/contact/' | relative_url }}) with me.
-  + My [Resume]({{ '/assets/Resume.pdf' | relative_url }}) is available for download here too.
-
-<h2>
-    Connect with me on
-    <a href="https://www.linkedin.com/in/michael-scutari/">LinkedIn</a>
-    <img src="{{ '/assets/icons/linkedin.svg' | relative_url }}" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;" />
-    or check out my
-    <a href="https://github.com/krystalkairuiwang">GitHub</a>
-    <img src="{{ '/assets/icons/github.svg' | relative_url }}" alt="GitHub" style="width: 20px; height: 20px; vertical-align: middle;" />.
-</h2>
+Learn more about the projects and research I have worked on the [Projects]({{ '/projects/' | relative_url }}) page!
