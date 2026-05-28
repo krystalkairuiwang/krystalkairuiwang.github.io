@@ -1,6 +1,7 @@
 ---
 title: "In vitro Artery Model"
 header_image: "/assets/images/epithelium.jpg"
+date: 2026-02-01
 description: "Creating <i>in vitro</i> Models of Arteries to Study Oxidative Stress"
 layout: "projects"
 technologies:

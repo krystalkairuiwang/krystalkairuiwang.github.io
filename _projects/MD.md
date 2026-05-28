@@ -1,6 +1,7 @@
 ---
 title: "Molecular Dynamics Simulation Analysis"
 header_image: "/assets/images/kagome.jpg"
+date: 2025-09-01
 description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
 layout: "projects"  # We'll create a project layout or use default
 technologies:
@@ -23,6 +24,6 @@ As a member of the lab, I participated in weekly meetings and had many chances t
 
 ## Workflow Demonstration
 
-<img src="/assets/images/workflow1.png" alt="workflow image 1" style="width:1000px;">
-<img src="/assets/images/workflow2.png" alt="workflow image 2" style="width:1000px;">
-<img src="/assets/images/workflow3.png" alt="workflow image 3" style="width:1000px;">
+<img src="/assets/images/workflow1.png" alt="workflow image 1" style="width:1200px;">
+<img src="/assets/images/workflow2.png" alt="workflow image 2" style="width:1200px;">
+<img src="/assets/images/workflow3.png" alt="workflow image 3" style="width:1200px;">
