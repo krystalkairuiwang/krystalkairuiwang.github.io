@@ -2,7 +2,7 @@
 title: "In vitro Artery Model"
 header_image: "/assets/images/epithelium.jpg"
 description: "Creating <i>in vitro</i> Models of Arteries to Study Oxidative Stress"
-layout: "project"
+layout: "projects"
 technologies:
   - Cell Culture
   - Cell Differentiation

@@ -2,7 +2,7 @@
 title: "Molecular Dynamics Simulation Analysis"
 header_image: "/assets/images/kagome.jpg"
 description: "Python script to analyze lattice composition in Molecular Dynamics simulations"
-layout: "project"  # We'll create a project layout or use default
+layout: "projects"  # We'll create a project layout or use default
 technologies:
   - Python
   - lammps
