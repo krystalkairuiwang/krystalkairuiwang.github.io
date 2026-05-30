@@ -12,7 +12,7 @@ technologies:
 ---
 Fall 2024
 
-In EGR101, we were tasked with devising a method of salamander population sampling that is minimally invasive and operatable by one researcher. The main issue the researchers faced was needing to lift up coverboards without trampling on the surrounding forrest floor.
+In EGR101 <i>First-Year Design</i> class, we were tasked with devising a method of salamander population sampling that is minimally invasive and operatable by one researcher. The main issue the researchers faced was needing to lift up coverboards without trampling on the surrounding forrest floor.
 
 <img src="/assets/images/coverboard.jpg" alt="coverboard" style="width:500px;">
 <small>Researchers lift these coverboards to count salamanders underneath it.</small>

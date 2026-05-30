@@ -9,3 +9,4 @@ technologies:
 
 Spring 2025
 
+In EGR 105 <i>Computing for Engineers</i> class, we were tasked with 
